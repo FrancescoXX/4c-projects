@@ -16,3 +16,4 @@ Being part of the 4C Community. [join for free now](https://discord.com/invite/n
 Project Link  | Projects Title | Description (optional) | Twitter handle |
 | --- | --- | --- | --- |
 | https://github.com/FrancescoXX/free-Web3-resources | FREE Web3 Resources | A list of resources to learn Web3 for FREE | [FrancescoCiull4](https://twitter.com/FrancescoCiull4) |
+| https://github.com/thegeekyb0y/learnpython | FREE Python Resources | Compiled list of Free resources to learn Python | [thegeekyb0y](https://twitter.com/thegeekyb0y) |
