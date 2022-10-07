@@ -22,3 +22,4 @@ Project Link  | Projects Title | Description (optional) | Twitter handle |
 | https://github.com/akshitagupta15june/Face-X | Face-X | Demonstration of different algorithms and operations on faces. | [Akshita_archer](https://twitter.com/Akshita_archer) |
 | https://github.com/krishnanshagarwal112/Library | Library | A basic library management system [only frontend] | [KrishnanshDev](https://twitter.com/krishnanshdev) |
 | https://github.com/beccalyria/discord-bot | Becca Lyria | A community management and moderation bot for Discord. | [Becca Lyria](https://twitter.com/BeccaLyria) |
+| https://github.com/Pradumnasaraf/open-source-with-pradumna | Open Source With Pradumna | Contains resources to learn about Open Source, Git, and GitHub.| [Pradumna Saraf](https://twitter.com/pradumna_saraf) |
