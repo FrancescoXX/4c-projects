@@ -1,5 +1,8 @@
+# THIS REPOSITORY IS GONNA GET ARCHIVED! 
+Submit your PRs here: https://github.com/FrancescoXX/4c-site/blob/main/PROJECTS.md
+
+
 # 4c-projects
-![Projects](https://user-images.githubusercontent.com/18360871/194468653-0067e138-33d3-4ea7-a850-62df9591d1b4.png)
 
 Here is a list of the current projects of the 4C members!
 
