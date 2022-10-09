@@ -24,3 +24,6 @@ Project Link  | Projects Title | Description (optional) | Twitter handle |
 | https://github.com/krishnanshagarwal112/Library | Library | A basic library management system [only frontend] | [KrishnanshDev](https://twitter.com/krishnanshdev) |
 | https://github.com/beccalyria/discord-bot | Becca Lyria | A community management and moderation bot for Discord. | [Becca Lyria](https://twitter.com/BeccaLyria) |
 | https://github.com/Njong392/Abbreve | Abbreve | Open source dictionary for slang | [njong_emy](https://twitter.com/njong_emy)
+| https://github.com/tobySolutions/tobiloba-portfolio | Tobiloba Adedeji | My portfolio website, version 1.0 | [toby_solutions](https://twitter.com/toby_solutions) |
+| https://github.com/Yudai-creator/yudai-creator-definitive | Yuida Creator Portfolio Website | Building my portfolio of porjects, where I going to turn this website into the center point of my brand. | [Yudai H](https://twitter.com/creator_yudai) |
+| https://github.com/Dun-sin/Code-Magic | Code Magic | Get short css code you can use in your applications | [Dunsin](https://twitter.com/DunsinWebDev) |
